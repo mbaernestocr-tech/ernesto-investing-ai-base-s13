@@ -37,7 +37,7 @@
   {
    "id": "P6",
    "nombre": "Clasificadores binarios casi aleatorios",
-   "detalle": "Exactitud 51.5-58.5 %, AUC 0.52-0.62; ruido de modelo 7-8.5 puntos de probabilidad alrededor de la probabilidad latente"
+   "detalle": "Exactitud 52-57 %, AUC 0.54-0.62; ruido de modelo 7-8.5 puntos de probabilidad alrededor de la probabilidad latente"
   },
   {
    "id": "P7",

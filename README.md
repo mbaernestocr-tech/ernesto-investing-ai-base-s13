@@ -26,7 +26,7 @@ Material educativo de Ernesto D. Cancho-Rodríguez (FISI-UNMSM). Los precios son
 | `02_precios_sinteticos_504d.json` / `03_ohlcv_sintetico_120d.json` | Historia sintética de 504 sesiones y velas de 120 |
 | `04_matriz_correlacion_covarianza.json` | Correlaciones, covarianzas y retornos esperados simulados |
 | `05_clasificadores_binarios.json` | 18 clasificadores (11 ML + 7 DL), SUBE/BAJA a 30 sesiones, solo dos clases |
-| `06_regresores_precio_30d.json` | 18 regresores (10 ML + 8 DL), 30 precios futuros por activo |
+| `06_regresores_precio_30d.json` | 18 regresores (11 ML + 7 DL), 30 precios futuros por activo |
 | `07_optimizador_markowitz_nsga.json` | Frontera de Markowitz y frentes NSGA-II y NSGA-III (simulados) |
 | `08_portafolios_3_niveles_riesgo.json` | Portafolios Conservador, Moderado y Agresivo |
 | `09_backtesting_portafolios.json` | Backtesting walk-forward de 252 sesiones frente a SPY, QQQ, EPU y 1/N |
